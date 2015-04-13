@@ -1,0 +1,15 @@
+<local:StationPageViewModel 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"       
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:LjubljanaBus" >
+
+    <local:StationPageViewModel.Lines>
+        <local:LinesViewModel ID="1N" LineColor="Red"  IDNumberOnly="1" Times="12:30, 12:31, 13:42" Name="Mestni log - vizmarjkrneki se endolge" />
+        <local:LinesViewModel ID="1B" LineColor="Green" IDNumberOnly="1" Times="12:30, 12:31, 13:42" Name="Mestni log - zmarje" />
+        <local:LinesViewModel ID="27K" LineColor="Pink" IDNumberOnly="1" Times="12:30, 12:31, 13:42" Name="Mestni log - marje" />
+        <local:LinesViewModel ID="3" LineColor="Blue" IDNumberOnly="1" Times="12:30, 12:31, 13:42" Name="Mestni log - vizje" />
+    </local:StationPageViewModel.Lines>
+
+
+
+</local:StationPageViewModel>

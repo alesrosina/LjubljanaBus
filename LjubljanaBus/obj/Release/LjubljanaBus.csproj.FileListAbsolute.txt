@@ -1,0 +1,95 @@
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\ApplicationIcon.png
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\Background.png
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\LjubljanaBus.dll
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\LjubljanaBus.pdb
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\AppManifest.xaml
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\LjubljanaBus.xap
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\Microsoft.Phone.Controls.Maps.xml
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\obj\Release\App.g.i.cs
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\obj\Release\MainPage.g.i.cs
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\obj\Release\StationPage.g.i.cs
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\obj\Release\LjubljanaBus.g.resources
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\obj\Release\LjubljanaBus.dll
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\obj\Release\LjubljanaBus.pdb
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\obj\Release\XapCacheFile.xml
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\icons\appbar-favs.png
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\icons\appbar.add.rest.png
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\icons\appbar.favs.addto.rest.png
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\icons\appbar.feature.search.rest.png
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\icons\appbar.minus.rest.png
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\icons\appbar.refresh.rest.png
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\SplashScreenImage.jpg
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\icons\appbar-world.png
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\icons\appbar-location.png
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\icons\appbar-phone.png
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\icons\appbar-compas.png
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\icons\appbar-scheme.png
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\obj\Release\AboutPage.g.i.cs
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\obj\Release\MapPage.g.i.cs
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\obj\Release\SchemePage.g.i.cs
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\obj\Release\SearchPage.g.i.cs
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\obj\Release\SettingsPage.g.i.cs
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\obj\Release\LjubljanaBus.Data.AppResource.resources
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\sl-SI\LjubljanaBus.resources.dll
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\obj\Release\LjubljanaBus.Data.AppResource.sl-SI.resources
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\obj\Release\sl-SI\LjubljanaBus.resources.dll
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\obj\Release\AgreeLocationUsePage.g.i.cs
+C:\Users\Ales\Documents\Visual Studio 2010\Projects\LjubljanaBus\LjubljanaBus\Bin\Release\icons\appbar.pin.rest.png
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\icons\appbar.pin.rest.png
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\ApplicationIcon.png
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\Background.png
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\icons\appbar-favs.png
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\icons\appbar.add.rest.png
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\icons\appbar.favs.addto.rest.png
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\icons\appbar.feature.search.rest.png
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\icons\appbar.minus.rest.png
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\icons\appbar.refresh.rest.png
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\SplashScreenImage.jpg
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\icons\appbar-world.png
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\icons\appbar-location.png
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\Microsoft.Phone.Controls.dll
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\Microsoft.Phone.Controls.Maps.dll
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\Microsoft.Phone.Controls.xml
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\Microsoft.Phone.Controls.Maps.xml
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\Microsoft.Phone.Controls.Toolkit.pdb
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\Microsoft.Phone.Controls.Toolkit.xml
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\obj\Release\ResolveAssemblyReference.cache
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\obj\Release\App.g.i.cs
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\obj\Release\AboutPage.g.i.cs
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\obj\Release\AgreeLocationUsePage.g.i.cs
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\obj\Release\MainPage.g.i.cs
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\obj\Release\MapPage.g.i.cs
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\obj\Release\SchemePage.g.i.cs
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\obj\Release\SearchPage.g.i.cs
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\obj\Release\SettingsPage.g.i.cs
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\obj\Release\StationPage.g.i.cs
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\obj\Release\LjubljanaBus.g.resources
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\obj\Release\LjubljanaBus.Data.AppResource.resources
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\obj\Release\LjubljanaBus.Data.AppResource.sl-SI.resources
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\obj\Release\GenerateResource.read.1.tlog
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\obj\Release\GenerateResource.write.1.tlog
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\obj\Release\sl-SI\LjubljanaBus.resources.dll
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\obj\Release\LjubljanaBus.dll
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\obj\Release\LjubljanaBus.pdb
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\Images\station.png
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\icons\appbar-phone.png
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\icons\appbar-compas.png
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\icons\appbar-scheme.png
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\LjubljanaBus.dll
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\LjubljanaBus.pdb
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\sl-SI\LjubljanaBus.resources.dll
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\AppManifest.xaml
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\LjubljanaBus.xap
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\obj\Release\XapCacheFile.xml
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\obj\Release\RoutePage.g.i.cs
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\Images\urbana_120.jpg
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\Images\urbana_70.png
+C:\Users\dev\Documents\Visual Studio 2010\Projects\_my staff\LjubljanaBus\LjubljanaBus\Bin\Release\FlurryWP7SDK.dll

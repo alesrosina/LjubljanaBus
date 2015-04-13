@@ -1,0 +1,9 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="LjubljanaBus" EntryPointType="LjubljanaBus.App" RuntimeVersion="3.0.40624.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="LjubljanaBus" Source="LjubljanaBus.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls" Source="Microsoft.Phone.Controls.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Maps" Source="Microsoft.Phone.Controls.Maps.dll" />
+    <AssemblyPart x:Name="Microsoft.Phone.Controls.Toolkit" Source="Microsoft.Phone.Controls.Toolkit.dll" />
+    <AssemblyPart Source="sl-SI/LjubljanaBus.resources.dll" />
+  </Deployment.Parts>
+</Deployment>
