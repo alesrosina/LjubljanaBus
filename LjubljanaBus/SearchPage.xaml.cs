@@ -37,7 +37,7 @@ namespace LjubljanaBus
 
                //listResults.ItemsSource = App.ViewModel.Stations.Select(a => a.NameWithID.ToLower().Contains(txtSearch.Text.ToLower()));
                listResults.Focus();
-               Settings.FlurryLogEvent("Search", "Search string", txtSearch.Text);
+               // Settings.FlurryLogEvent("Search", "Search string", txtSearch.Text);
                
             }
         }
@@ -52,7 +52,7 @@ namespace LjubljanaBus
             txtSearch.SelectAll();
             txtSearch.Focus();
 
-            FlurryWP7SDK.Api.LogPageView();
+            // FlurryWP7SDK.Api.LogPageView();
         }
 
         private void listResults_SelectionChanged(object sender, SelectionChangedEventArgs e)

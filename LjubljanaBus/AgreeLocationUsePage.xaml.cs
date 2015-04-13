@@ -33,7 +33,7 @@ namespace LjubljanaBus
 
         private void PhoneApplicationPage_Loaded(object sender, RoutedEventArgs e)
         {
-            FlurryWP7SDK.Api.LogPageView();
+            // FlurryWP7SDK.Api.LogPageView();
         }
 
         private void btnPrivacy_Click(object sender, RoutedEventArgs e)
@@ -47,7 +47,7 @@ namespace LjubljanaBus
             NavigationService.Navigate(new Uri("/MainPage.xaml", UriKind.Relative));
 
 
-            Settings.FlurryLogEvent("FirstRun", "AgreeToLocServices", "true");
+            // Settings.FlurryLogEvent("FirstRun", "AgreeToLocServices", "true");
         }
 
         private void btnCancel_Click(object sender, RoutedEventArgs e)
@@ -55,7 +55,7 @@ namespace LjubljanaBus
             Settings.LocationServices = false;
             NavigationService.Navigate(new Uri("/MainPage.xaml", UriKind.Relative));
 
-            Settings.FlurryLogEvent("FirstRun", "AgreeToLocServices", "false");
+            // Settings.FlurryLogEvent("FirstRun", "AgreeToLocServices", "false");
         }
     }
 }

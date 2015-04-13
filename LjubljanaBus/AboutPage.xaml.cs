@@ -29,7 +29,7 @@ namespace LjubljanaBus
 
         private void PhoneApplicationPage_Loaded(object sender, RoutedEventArgs e)
         {
-            FlurryWP7SDK.Api.LogPageView();
+            //FlurryWP7SDK.Api.LogPageView();
         }
     }
 }

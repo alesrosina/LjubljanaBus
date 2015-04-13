@@ -42,7 +42,7 @@ namespace LjubljanaBus
                     btnSendError.Visibility = System.Windows.Visibility.Visible;
             }
 
-            FlurryWP7SDK.Api.LogPageView();
+            // FlurryWP7SDK.Api.LogPageView();
         }
 
         private void btnLocation_Checked(object sender, RoutedEventArgs e)

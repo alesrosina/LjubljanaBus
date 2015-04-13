@@ -24,7 +24,7 @@ namespace LjubljanaBus
         //private static StationPageViewModel stationViewModel = null;
         private static LjubljanaBus.Helpers.Favorites favorites = null;
         //private static GeoCoordinateWatcher geowatcher = null;
-        public const string flurryApiKey = "WT9F2NPCV87VL68SMUXE";
+        //public const string flurryApiKey = ""; TODO add flurry api key
 
         //public static Geo
 
@@ -113,7 +113,7 @@ namespace LjubljanaBus
         // This code will not execute when the application is reactivated
         private void Application_Launching(object sender, LaunchingEventArgs e)
         {
-            FlurryWP7SDK.Api.StartSession(flurryApiKey);
+            // FlurryWP7SDK.Api.StartSession(flurryApiKey);
         }
 
         // Code to execute when the application is activated (brought to foreground)
@@ -126,14 +126,14 @@ namespace LjubljanaBus
                 App.ViewModel.LoadData();
             }
 
-            FlurryWP7SDK.Api.StartSession(flurryApiKey);
+            // FlurryWP7SDK.Api.StartSession(flurryApiKey);
         }
 
         // Code to execute when the application is deactivated (sent to background)
         // This code will not execute when the application is closing
         private void Application_Deactivated(object sender, DeactivatedEventArgs e)
         {
-            FlurryWP7SDK.Api.EndSession();
+            // FlurryWP7SDK.Api.EndSession();
             // Ensure that required application state is persisted here.
         }
 
@@ -141,7 +141,7 @@ namespace LjubljanaBus
         // This code will not execute when the application is deactivated
         private void Application_Closing(object sender, ClosingEventArgs e)
         {
-            FlurryWP7SDK.Api.EndSession();
+           // FlurryWP7SDK.Api.EndSession();
         }
 
         // Code to execute if a navigation fails
@@ -152,8 +152,8 @@ namespace LjubljanaBus
                 // A navigation has failed; break into the debugger
                 System.Diagnostics.Debugger.Break();
             }
-            else
-                FlurryWP7SDK.Api.LogError("NvigationFailed", e.Exception);
+            // else
+            //     FlurryWP7SDK.Api.LogError("NvigationFailed", e.Exception);
         }
 
         // Code to execute on Unhandled Exceptions
@@ -170,7 +170,7 @@ namespace LjubljanaBus
                 {
                     //if (!file.FileExists(_filename))
                     //    file.CreateFile(_filename);
-                    FlurryWP7SDK.Api.LogError("NvigationFailed", e.ExceptionObject);
+                    // FlurryWP7SDK.Api.LogError("NvigationFailed", e.ExceptionObject);
 
                     try
                     {

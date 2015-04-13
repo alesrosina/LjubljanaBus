@@ -122,7 +122,7 @@ namespace LjubljanaBus
         private void PhoneApplicationPage_Loaded(object sender, RoutedEventArgs e)
         {
             progressBar1.IsIndeterminate = true;
-            FlurryWP7SDK.Api.LogPageView();
+            // FlurryWP7SDK.Api.LogPageView();
         }
 
         private void barZoomIn_Click(object sender, EventArgs e)

@@ -100,7 +100,7 @@ namespace LjubljanaBus
             transform.TranslateY = -100;
 
             prevOrient = this.Orientation;
-            FlurryWP7SDK.Api.LogPageView();
+            // FlurryWP7SDK.Api.LogPageView();
         }
 
         private void OnPinchCompleted(object sender, PinchGestureEventArgs e)

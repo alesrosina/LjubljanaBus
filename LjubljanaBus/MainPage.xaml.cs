@@ -76,7 +76,7 @@ namespace LjubljanaBus
 
             listBoxFavorites.ItemsSource = App.Favorites.Stations;
 
-            FlurryWP7SDK.Api.LogPageView();
+            // FlurryWP7SDK.Api.LogPageView();
         }
 
         private void listBoxStations_SelectionChanged(object sender, SelectionChangedEventArgs e)

@@ -48,13 +48,13 @@ namespace LjubljanaBus.Helpers
         }
 
 
-        public static void FlurryLogEvent(string eventName, string paramName, string paramValue)
-        {
-            var flurryParams = new List<FlurryWP7SDK.Models.Parameter>();
-            flurryParams.Add(new FlurryWP7SDK.Models.Parameter(paramName, paramValue));
+        // public static void FlurryLogEvent(string eventName, string paramName, string paramValue)
+        // {
+        //     var flurryParams = new List<FlurryWP7SDK.Models.Parameter>();
+        //     flurryParams.Add(new FlurryWP7SDK.Models.Parameter(paramName, paramValue));
 
-            FlurryWP7SDK.Api.LogEvent(eventName, flurryParams);
-        }
+        //     FlurryWP7SDK.Api.LogEvent(eventName, flurryParams);
+        // }
 
         //public static bool IsPropertyExistent(string propertyName)
         //{

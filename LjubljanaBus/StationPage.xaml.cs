@@ -40,7 +40,7 @@ namespace LjubljanaBus
 
         private void PhoneApplicationPage_Loaded(object sender, RoutedEventArgs e)
         {
-            FlurryWP7SDK.Api.LogPageView();
+            // FlurryWP7SDK.Api.LogPageView();
 
             id = NavigationContext.QueryString["id"];
             name = NavigationContext.QueryString["name"];
@@ -95,7 +95,7 @@ namespace LjubljanaBus
             StartDownloading();
 
 
-            Settings.FlurryLogEvent("Station info", "Station name", _station.NameWithID);
+            // Settings.FlurryLogEvent("Station info", "Station name", _station.NameWithID);
 
             
         }
