@@ -104,7 +104,7 @@ namespace LjubljanaBus
         private void StartDownloading()
         {
             string postData = "__EVENTTARGET=&__EVENTARGUMENT=&tb_postaja=" + id + "&b_send=Prika%C5%BEi";
-            HttpWebRequest request = (HttpWebRequest)WebRequest.Create("http://wbus.talktrack.com/wap.aspx");
+            HttpWebRequest request = (HttpWebRequest)WebRequest.Create("http://wbus.mbt.margento.org/wap.aspx");
 
             request.ContentType = "application/x-www-form-urlencoded";
             request.UserAgent = "Mozilla/5.0 (Windows; U; Windows NT 6.1; en-US) AppleWebKit/534.10 (KHTML, like Gecko) Chrome/8.0.552.224 Safari/534.10";
